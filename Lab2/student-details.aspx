@@ -2,7 +2,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-<h1>Department Details</h1>
+<h1>Student Details</h1>
     <div class="form-group">
         <label for="txtFirstName" class="col-sm-3 control-label">First Name:</label>
         <asp:TextBox ID="txtFirstName" runat="server" required />
